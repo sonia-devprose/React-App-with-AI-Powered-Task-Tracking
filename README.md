@@ -1,45 +1,70 @@
-# React-App-with-AI-Powered-Task-Tracking
-React App with AI-Powered Task Tracking
+# Getting Started with Create React App
 
-FocusBoard is a modern React application that leverages Hugging Face’s AI models to help you organize, categorize, and prioritize your daily tasks with smart reminders and AI-generated suggestions.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-🚀 Features
-Add, edit, and delete tasks/reminders
+## Available Scripts
 
-Automatic task categorization and prioritization powered by Hugging Face AI
+In the project directory, you can run:
 
-AI-driven smart suggestions for task descriptions and reminder times
+### `npm start`
 
-Clean, responsive UI built with React
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Simple setup with Hugging Face API integration
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-🧠 Powered by Hugging Face
-Uses the [Hugging Face Inference API] exclusively for all AI functionalities
+### `npm test`
 
-Easily customizable to switch AI models or extend capabilities
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. ![Screenshot 2025-05-12 021958](https://github.com/user-attachments/assets/1b3478ec-dea1-4d2c-8c4f-eccb88b6a2fc)
-2. ![Uploading Screenshot 2025-05-12 022017.png…]()
-3. ![image](https://github.com/user-attachments/assets/39604e56-cf84-4c22-b7be-32c5b597aae9)
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-🛠️ Getting Started
-Clone the repository
+### `npm run eject`
 
-Run npm install
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Generate a Hugging Face API token from here and add it to your .env
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Run npm start to launch the app
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-💡 Use Cases
-Manage your daily tasks with AI-assisted categorization and prioritization
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Receive intelligent suggestions for task descriptions and timings
+## Learn More
 
-Boost productivity with minimal manual effort
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Built with React and powered 100% by Hugging Face AI - smart task management made easy!
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
