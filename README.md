@@ -19,6 +19,13 @@ Uses the [Hugging Face Inference API] exclusively for all AI functionalities
 
 Easily customizable to switch AI models or extend capabilities
 
+1. ![Screenshot 2025-05-12 021958](https://github.com/user-attachments/assets/1b3478ec-dea1-4d2c-8c4f-eccb88b6a2fc)
+2. ![Uploading Screenshot 2025-05-12 022017.png…]()
+3. ![image](https://github.com/user-attachments/assets/39604e56-cf84-4c22-b7be-32c5b597aae9)
+
+
+
+
 🛠️ Getting Started
 Clone the repository
 
