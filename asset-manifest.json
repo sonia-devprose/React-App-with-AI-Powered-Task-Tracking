@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-App-with-AI-Powered-Task-Tracking/static/css/main.efe7c107.css",
+    "main.js": "/React-App-with-AI-Powered-Task-Tracking/static/js/main.f016bfb6.js",
+    "static/js/453.2a9957cb.chunk.js": "/React-App-with-AI-Powered-Task-Tracking/static/js/453.2a9957cb.chunk.js",
+    "index.html": "/React-App-with-AI-Powered-Task-Tracking/index.html",
+    "main.efe7c107.css.map": "/React-App-with-AI-Powered-Task-Tracking/static/css/main.efe7c107.css.map",
+    "main.f016bfb6.js.map": "/React-App-with-AI-Powered-Task-Tracking/static/js/main.f016bfb6.js.map",
+    "453.2a9957cb.chunk.js.map": "/React-App-with-AI-Powered-Task-Tracking/static/js/453.2a9957cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe7c107.css",
+    "static/js/main.f016bfb6.js"
+  ]
+}
